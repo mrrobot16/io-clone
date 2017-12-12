@@ -11411,7 +11411,7 @@
             min: a,
             max: i
           }),
-          t = this.integer({min: e.*n, max: e.*n});
+          t = this.integer({min: e*n, max: e*n});
           var s = (t / n).toFixed(e.fixed);
           return parseFloat(s)
         },
